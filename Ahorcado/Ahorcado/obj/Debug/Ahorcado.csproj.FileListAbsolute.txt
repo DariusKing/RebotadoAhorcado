@@ -1,0 +1,7 @@
+C:\Users\lordb\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\lordb\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\lordb\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\lordb\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojAssemblyReference.cache
+C:\Users\lordb\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\lordb\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\lordb\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
